@@ -1,6 +1,6 @@
 {
-  "name": "quick-abu-ts",
-  "version": "1.0.2",
+  "name": "quick-abu-ts-app",
+  "version": "1.0.1",
   "description": "",
   "bin": {
     "quick-ts": "index.js"

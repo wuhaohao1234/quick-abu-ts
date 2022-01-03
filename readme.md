@@ -13,7 +13,7 @@
 ## 快速开始
 
 ```shell
-npx quick-abu-ts create project
+npx quick-abu-ts-app create project
 cd project
 yarn
 yarn test
